@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @DanRoberta
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+DanRoberta/DanRoberta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Olá, sou  Danielle Roberta ou DanRoberta, estou interessada em aprender Programação, atualmente estou cursando Técinico em Desenvolvimento de Sistemas com conhecimentos básicos em Java Script, html e css.
+Estou procurando colaborar com o aprendizado no desenvolvimento de sites e  sistemas  simples, pois sou nova na área de Tecnologia!
+Meu contato é:danroberta3082@gmail.com.
